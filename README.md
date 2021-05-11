@@ -1,4 +1,4 @@
-#Real-Time-Fraud-Detection
+# Real Time Fraud Detection
 
 In this project I built machine learning models to identify fraud in European credit card transactions. I also make several data visualizations to reveal patterns and structure in the data.
 
